@@ -1,9 +1,11 @@
 {
-  "name": "traaittcash-node-monitor",
+  "name": "@trrxitte/traaittcash-node-monitor",
   "version": "0.0.8",
   "description": "A traaittCASH public node monitor agent that monitors, polls, and logs public node availability and basic information to MySQL/MariaDB backend.",
   "main": "index.js",
-  "bin": "./collector.js",
+  "bin": {
+    "traaittcash-node-monitor": "collector.js"
+  },
   "scripts": {
     "test": "standard",
     "collector": "node ./collector.js"
@@ -32,9 +34,12 @@
     "node-metronome": "^0.0.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "@trrxitte/traaittcash-rpc": "^1.0.2"
+    "@trrxitte/traaittcash-rpc": "^2.0.2"
   },
   "devDependencies": {
     "standard": "^14.0.2"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
