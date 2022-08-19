@@ -1,3 +1,4 @@
+// Copyright (c) 2022, TRRXITTE Int., incorporate
 // Copyright (c) 2019, The TurtleCoin Developers
 //
 // Please see the included LICENSE file for more information.
@@ -23,7 +24,7 @@ const Logger = {
 }
 
 const service = new Collector({
-  nodeList: process.env.NODE_LIST_URL || 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-nodes-json/master/turtlecoin-nodes.json',
+  nodeList: process.env.NODE_LIST_URL || 'https://raw.githubusercontent.com/TRRXITTE/traaittCASHnetworkserver/master/traaittcash.json',
   pollingInterval: process.env.POLLING_INTERVAL || 120,
   updateInterval: process.env.UPDATE_INTERVAL || (60 * 60),
   historyDays: process.env.HISTORY_DAYS || 0.25,
