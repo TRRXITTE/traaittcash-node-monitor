@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-node-monitor.git"
+    "url": "git+https://github.com/trrxitte/traaittcash-node-monitor.git"
   },
   "keywords": [
     "traaittCASH"
@@ -32,7 +32,7 @@
     "node-metronome": "^0.0.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "traaittcash-rpc": "^1.0.2"
+    "@trrxitte/traaittcash-rpc": "^1.0.2"
   },
   "devDependencies": {
     "standard": "^14.0.2"

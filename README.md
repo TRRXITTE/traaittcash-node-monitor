@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/turtlecoin-node-monitor.png?downloads=true&stars=true)](https://nodei.co/npm/traaittcash-node-monitor/)
+[![NPM](https://nodei.co/npm/@trrxitte/traaittcash-node-monitor.png?downloads=true&stars=true)](https://nodei.co/npm/@trrxitte/traaittcash-node-monitor/)
 
 <h1 align="center"></h1>
 <p>
@@ -6,7 +6,7 @@
   <a href="https://github.com/trrxitte/traaittcash-node-monitor#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-meh-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/turtlecoin/traaittcash-node-monitor/graphs/commit-activity">
+  <a href="https://github.com/trrxitte/traaittcash-node-monitor/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
   <a href="https://github.com/trrxitte/traaittcash-node-monitor/blob/master/LICENSE">
